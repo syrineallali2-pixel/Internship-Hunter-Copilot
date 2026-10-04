@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="700" viewBox="0 0 1440 700" fill="none">
+  <defs>
+    <linearGradient id="page" x1="0" y1="0" x2="1440" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111722"/>
+      <stop offset="1" stop-color="#090D14"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="148" y1="68" x2="1284" y2="442" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39495B"/>
+      <stop offset=".45" stop-color="#1C2B39"/>
+      <stop offset="1" stop-color="#171923"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="72" y1="493" x2="1360" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2230" stop-opacity=".96"/>
+      <stop offset="1" stop-color="#121823" stop-opacity=".96"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6355BA"/>
+      <stop offset="1" stop-color="#9481EA"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="700" y1="70" x2="1260" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B2C2D0" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#2D3E4D" stop-opacity=".05"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <clipPath id="heroClip">
+      <rect x="36" y="30" width="1368" height="424" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1440" height="700" rx="30" fill="url(#page)"/>
+  <ellipse cx="723" cy="485" rx="585" ry="45" fill="#02050A" fill-opacity=".8" filter="url(#shadow)"/>
+
+  <g clip-path="url(#heroClip)">
+    <rect x="36" y="30" width="1368" height="424" fill="url(#hero)"/>
+    <path d="M36 30h1368v173H36z" fill="url(#sky)"/>
+    <path d="M36 30h700v424H36z" fill="#0A1019" fill-opacity=".32"/>
+    <path d="M695 30h12v424h-12zM890 30h10v424h-10zM1080 30h12v424h-12zM1266 30h10v424h-10z" fill="#C4D1DC" fill-opacity=".22"/>
+    <path d="M36 190h1368v8H36zM36 344h1368v7H36z" fill="#D5E0E8" fill-opacity=".18"/>
+    <path d="M736 30v160M900 30v160M1092 30v160M1276 30v160" stroke="#E2EAF0" stroke-opacity=".16" stroke-width="2"/>
+    <path d="M36 198h1368v146H36z" fill="#0C121B" fill-opacity=".12"/>
+    <path d="M36 351h1368v103H36z" fill="#080C13" fill-opacity=".46"/>
+    <path d="M36 351h1368" stroke="#F3F6F8" stroke-opacity=".19" stroke-width="2"/>
+
+    <rect x="72" y="54" width="175" height="38" rx="19" fill="#101722" fill-opacity=".35" stroke="#fff" stroke-opacity=".19"/>
+    <text x="94" y="78" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">INTERNSHIP HUNTER</text>
+    <rect x="836" y="55" width="91" height="34" rx="17" fill="#fff" fill-opacity=".94"/>
+    <text x="859" y="77" fill="#17202B" font-family="Arial, sans-serif" font-size="13" font-weight="700">Career</text>
+    <rect x="937" y="55" width="132" height="34" rx="17" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".2"/>
+    <text x="955" y="77" fill="#fff" fill-opacity=".88" font-family="Arial, sans-serif" font-size="12">Interview prep</text>
+    <rect x="1078" y="55" width="95" height="34" rx="17" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".2"/>
+    <text x="1100" y="77" fill="#fff" fill-opacity=".88" font-family="Arial, sans-serif" font-size="12">CV match</text>
+    <rect x="1182" y="55" width="94" height="34" rx="17" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".2"/>
+    <text x="1202" y="77" fill="#fff" fill-opacity=".88" font-family="Arial, sans-serif" font-size="12">Research</text>
+
+    <text x="720" y="166" text-anchor="middle" fill="#D7D1FC" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">YOUR CAREER, IN MOTION</text>
+    <text x="720" y="236" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2.5">A New Way To</text>
+    <text x="720" y="299" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-2.5">Launch Your Career</text>
+
+    <text x="68" y="418" fill="#F1F4F8" fill-opacity=".82" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">CV MATCH  ·  INTERVIEWS  ·  RESEARCH</text>
+    <rect x="1096" y="366" width="270" height="68" rx="18" fill="#F5F7FA" fill-opacity=".88" stroke="#fff" stroke-opacity=".55"/>
+    <rect x="1110" y="379" width="42" height="42" rx="14" fill="#29205E"/>
+    <text x="1131" y="406" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="15" font-weight="700">IH</text>
+    <text x="1164" y="393" fill="#18202C" font-family="Arial, sans-serif" font-size="13" font-weight="700">Your career copilot</text>
+    <text x="1164" y="413" fill="#647184" font-family="Arial, sans-serif" font-size="11">One workspace. Every next step.</text>
+    <circle cx="1340" cy="400" r="15" fill="#fff"/>
+    <text x="1340" y="405" text-anchor="middle" fill="#1A2330" font-family="Arial, sans-serif" font-size="15" font-weight="700">↗</text>
+  </g>
+  <rect x="36.5" y="30.5" width="1367" height="423" rx="27.5" stroke="#fff" stroke-opacity=".23"/>
+
+  <rect x="36" y="484" width="864" height="184" rx="24" fill="url(#glass)" stroke="#fff" stroke-opacity=".11"/>
+  <text x="72" y="529" fill="#F0F3F8" font-family="Arial, sans-serif" font-size="26" font-weight="700">Internship Hunter Copilot</text>
+  <text x="72" y="557" fill="#9BA8BB" font-family="Arial, sans-serif" font-size="13">Career Coach  ·  Gemini  ·  Personalised job search</text>
+  <path d="M72 579h792" stroke="#fff" stroke-opacity=".1"/>
+  <g font-family="Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+    <rect x="72" y="597" width="142" height="42" rx="21" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".13"/>
+    <text x="143" y="623" fill="#DCE4EF">Paste job posting</text>
+    <rect x="228" y="597" width="142" height="42" rx="21" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".13"/>
+    <text x="299" y="623" fill="#DCE4EF">Analyse CV</text>
+    <rect x="384" y="597" width="142" height="42" rx="21" fill="#fff" fill-opacity=".07" stroke="#fff" stroke-opacity=".13"/>
+    <text x="455" y="623" fill="#DCE4EF">Research</text>
+    <rect x="540" y="597" width="142" height="42" rx="21" fill="url(#accent)" fill-opacity=".9" stroke="#C5B9FF" stroke-opacity=".25"/>
+    <text x="611" y="623" fill="#fff">Mock interview</text>
+  </g>
+
+  <rect x="924" y="484" width="480" height="184" rx="24" fill="url(#glass)" stroke="#fff" stroke-opacity=".11"/>
+  <text x="958" y="526" fill="#DDD6FF" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">MODEL &amp; PROMPT</text>
+  <path d="M958 541h412" stroke="#fff" stroke-opacity=".1"/>
+  <rect x="958" y="559" width="184" height="83" rx="15" fill="#080D15" fill-opacity=".55" stroke="#fff" stroke-opacity=".08"/>
+  <text x="977" y="585" fill="#91A0B4" font-family="Arial, sans-serif" font-size="11">MODEL IN USE</text>
+  <text x="977" y="618" fill="#F4F6FA" font-family="Arial, sans-serif" font-size="24" font-weight="700">Fast</text>
+  <rect x="1156" y="559" width="214" height="83" rx="15" fill="#080D15" fill-opacity=".55" stroke="#fff" stroke-opacity=".08"/>
+  <text x="1175" y="585" fill="#91A0B4" font-family="Arial, sans-serif" font-size="11">SESSION STATUS</text>
+  <circle cx="1182" cy="612" r="5" fill="#44D6A0"/>
+  <text x="1197" y="617" fill="#E1E8F2" font-family="Arial, sans-serif" font-size="14" font-weight="600">Ready to help</text>
+</svg>
